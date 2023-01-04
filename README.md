@@ -1,6 +1,6 @@
 # Project--Bangalore-Restaurants 
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU2IDLgaMndAiGSQQgQ2mcOplVq1YIw4ROYg&usqp=CAU
+
 ## Introduction
 
 Food, Everyone loves it, everyone has it. Everyone even talks about it. Food is something we can talk about for hours and hours. India is rightly called the Land of Spices. No country in the world produces as many varieties of spices as India. The restaurant industry in India has witnessed an unprecedented transformation with the entry of a variety of national and international players. This has, in turn, given birth to a huge demand for qualified professionals in the sector and all related industries. Thanks to the technological revolution, Indian restaurant setups have now gone online to gain more customers and serve them better.
